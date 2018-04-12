@@ -21,7 +21,7 @@ class Talk:
   port = 443;
 
   UA = "Line/8.0.0"
-  LA = "DESKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0"
+  LA = "CHROMEOS\t8.2.1\tChrome_OS\t1"
 
   authToken = None
   cert = None
