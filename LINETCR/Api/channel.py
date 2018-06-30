@@ -19,7 +19,7 @@ class Channel:
     channel_query_path = "/CH4"
 
     UA = "Line/8.0.0"
-    LA = "CHROMEOS\t8.2.1\tChrome_OS\t1"
+    LA = "IOSIPAD 8.9.1 NADYA-TJ x64"
 
     authToken = None
     mid = None
