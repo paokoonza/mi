@@ -19,7 +19,7 @@ class Poll:
   port = 443;
 
   UA = "Line/8.0.0"
-  LA = "IOSIPAD 8.9.1 NADYA-TJ x64"
+  LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
 
   rev = 0
 
